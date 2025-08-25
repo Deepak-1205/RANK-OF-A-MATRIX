@@ -23,7 +23,8 @@ print(s)
 
 ```
 ## Output:
-<img width="1276" height="411" alt="Screenshot 2025-08-16 141905" src="https://github.com/user-attachments/assets/69dbbb0e-e615-43ef-8f86-557ebfb04e56" />
+<img width="1321" height="803" alt="image" src="https://github.com/user-attachments/assets/e02b1da6-9fc5-446c-b1f1-461bd8383305" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
